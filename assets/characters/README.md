@@ -12,7 +12,7 @@ the filenames unchanged:
 - `LGC.svg` — The Silent Mastermind
 - `LGF.svg` — The Suspiciously Functional Otter
 - `LDC.svg` — The Internal System Error
-- `LDF.svg` — The Deadline Cryptid
+- `LDF.svg` — The Deadline Crypt
 
 Recommended artwork specifications:
 
