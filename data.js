@@ -178,7 +178,7 @@ window.OLLIECATOR_DATA = {
 
   results: {
     YGC: {
-      name: "The Load-Bearing Yapper",
+      name: "The Otter Group Manager",
       tagline: "The group chat is alive because you refuse to let it die.",
       description:
         "You combine visible enthusiasm with steady progress and a plan for nearly everything. You are often the person who turns “we should do something” into an actual time, place, checklist, and suspiciously active chat.",
@@ -189,7 +189,7 @@ window.OLLIECATOR_DATA = {
       color: "#0aaeb5",
     },
     YGF: {
-      name: "The Productive Side-Quester",
+      name: "The Productive Side Quester",
       tagline: "Consistently achieving things—just not always in the expected order.",
       description:
         "You communicate freely and make steady progress, but prefer enough flexibility for spontaneous detours. Somehow you can complete the reading, try a new café, help a friend, and join an event nobody planned to attend.",
@@ -200,7 +200,7 @@ window.OLLIECATOR_DATA = {
       color: "#35a86b",
     },
     YDC: {
-      name: "The Colour-Coded Crisis",
+      name: "The Organised Procastinator",
       tagline: "The plan is immaculate. The starting date is under review.",
       description:
         "You like active conversation and reassuring structure, even if your academic powers only arrive once the deadline becomes emotionally significant. Your calendar knows everything that should be happening.",
@@ -211,7 +211,7 @@ window.OLLIECATOR_DATA = {
       color: "#ef6a5b",
     },
     YDF: {
-      name: "The Chaos Coordinator",
+      name: "The Chaos Talkative Otter",
       tagline: "No visible system. Impressive final outcome. Many messages.",
       description:
         "You are socially expressive, deadline-activated, and highly adaptable. Your methods may worry organised observers, but your energy rises with the stakes—and you are exceptionally good at turning a developing disaster into a memorable success.",
@@ -233,7 +233,7 @@ window.OLLIECATOR_DATA = {
       color: "#4869c6",
     },
     LGF: {
-      name: "The Suspiciously Functional Otter",
+      name: "The Low-Key Adaptive Otter",
       tagline: "Calm, flexible, and somehow getting everything done.",
       description:
         "You work consistently without needing to narrate the process or control every detail. You are comfortable adapting as things change and often appear relaxed because your progress happens quietly in the background.",
@@ -244,7 +244,7 @@ window.OLLIECATOR_DATA = {
       color: "#348f83",
     },
     LDC: {
-      name: "The Internal System Error",
+      name: "The Secretly Panicking Planner",
       tagline: "The schedule exists. Following it is a separate department.",
       description:
         "You prefer to observe before speaking and feel safer when a plan exists, but deadlines are often what finally activate your full academic ability. Much of the crisis occurs internally and may be invisible to everyone else.",
@@ -255,7 +255,7 @@ window.OLLIECATOR_DATA = {
       color: "#8c5cc7",
     },
     LDF: {
-      name: "The Deadline Cryptid",
+      name: "The 3AM Academic Weapon",
       tagline: "Last seen online at 3:07 a.m. carrying a completed document.",
       description:
         "You communicate selectively, improvise comfortably, and unlock extraordinary focus when time becomes scarce. Your process is mysterious to outsiders and occasionally to yourself, but the final appearance is often dramatic.",
